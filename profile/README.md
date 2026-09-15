@@ -1,6 +1,6 @@
-<center>
+<!--<center>
   <img src="https://raw.githubusercontent.com/havaianasdestruido/.github/refs/heads/main/cat.jpg" width="80%">
-</center>
+</center> -->
 
 <img src="https://raw.githubusercontent.com/havaianasdestruido/.github/refs/heads/main/badges.png" width="250" align="right">
 
