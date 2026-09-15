@@ -192,9 +192,146 @@
   <img src="https://img.shields.io/badge/ImageMagick-000000?style=for-the-badge&logo=imagemagick&logoColor=white">
 </p>
 
+<img src="https://raw.githubusercontent.com/havaianasdestruido/.github/refs/heads/main/noob.jpg" width="230" align="left">
+
 <p align="center">
   <img src="https://img.shields.io/badge/FL_Studio-FC7A00?style=for-the-badge&logo=flstudio&logoColor=white">
   <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white">
   <img src="https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</p>
+
+<!-- DAILY / SOFTWARE -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Messages-1A73E8?style=for-the-badge&logo=googlemessages&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
+  <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white">
+  <img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Spicetify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
+  <img src="https://img.shields.io/badge/MuseScore-1A1A1A?style=for-the-badge&logo=musescore&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/foobar2000-222222?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MPV-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/FL_Cloud-FC7A00?style=for-the-badge&logo=flstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/FabFilter-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/BLEASS-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DADALIFE-000000?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spitfire_Audio-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Kontakt-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Serum-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Vital-000000?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kdenlive-527EB2?style=for-the-badge&logo=kdenlive&logoColor=white">
+  <img src="https://img.shields.io/badge/HandBrake-00A9E0?style=for-the-badge&logo=handbrake&logoColor=white">
+  <img src="https://img.shields.io/badge/LosslessCut-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MKVToolNix-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Subtitle_Edit-000000?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Aegisub-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ImageMagick-000000?style=for-the-badge&logo=imagemagick&logoColor=white">
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ibisPaint-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Paint.NET-77B900?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white">
+  <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
+  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white">
+  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white">
+  <img src="https://img.shields.io/badge/PowerToys-FFFFFF?style=for-the-badge&logo=microsoft&logoColor=black">
+  <img src="https://img.shields.io/badge/qBittorrent-2F67BA?style=for-the-badge&logo=qbittorrent&logoColor=white">
+  <img src="https://img.shields.io/badge/CrystalDiskInfo-0078D7?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Speccy-00AEEF?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Photos-4285F4?style=for-the-badge&logo=googlephotos&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Keep-FFBB00?style=for-the-badge&logo=googlekeep&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Translate-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white">
+  <img src="https://img.shields.io/badge/OneDrive-0078D4?style=for-the-badge&logo=onedrive&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white">
+  <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white">
+  <img src="https://img.shields.io/badge/7--Zip-000000?style=for-the-badge&logo=7zip&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  <img src="https://img.shields.io/badge/Wolfram%7CAlpha-DD1100?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Desmos-FF6B35?style=for-the-badge">
+  <img src="https://img.shields.io/badge/GeoGebra-65A637?style=for-the-badge&logo=geogebra&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Wikipedia-000000?style=for-the-badge&logo=wikipedia&logoColor=white">
+  <img src="https://img.shields.io/badge/Internet_Archive-000000?style=for-the-badge&logo=internetarchive&logoColor=white">
+  <img src="https://img.shields.io/badge/Wayback_Machine-4285F4?style=for-the-badge">
+</p>
+
+<!-- ANDROID -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white">
+  <img src="https://img.shields.io/badge/Shizuku-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/F--Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ReVanced-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ReVanced_Manager-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ZArchiver-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MiXplorer-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Aurora_Store-7C4DFF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/NewPipe-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </p>
