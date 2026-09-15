@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/havaianasdestruido/.github/refs/heads/main/cat.jpg" width="80%">
 </center>
 
+<img src="https://raw.githubusercontent.com/havaianasdestruido/.github/refs/heads/main/badges.png" width="250" align="right">
+
 <p align="center">
   <img src="https://user-badge.committers.top/worldwide/havaianasdestruido.svg">
   <img src="https://user-badge.committers.top/brazil/havaianasdestruido.svg">
@@ -50,6 +52,8 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge">
 </p>
+
+<img src="https://raw.githubusercontent.com/havaianasdestruido/.github/refs/heads/main/larp.jpg" width="230" align="left">
 
 <p align="center">
   <img src="https://img.shields.io/badge/Haxe-EA8220?style=for-the-badge&logo=haxe&logoColor=white">
