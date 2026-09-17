@@ -77,7 +77,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white">
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge">
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=openapiinitiative&logoColor=white">
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white">
   <img src="https://img.shields.io/badge/Service_Workers-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white">
 </p>
@@ -111,7 +111,7 @@
   <img src="https://img.shields.io/badge/LLVM-262D3A?style=for-the-badge&logo=llvm&logoColor=white">
   <img src="https://img.shields.io/badge/MSVC-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
   <img src="https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white">
-  <img src="https://img.shields.io/badge/Valgrind-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Valgrind-000000?style=for-the-badge&logo=gnu&logoColor=white">
 </p>
 
 <p align="center">
@@ -125,7 +125,7 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/Git_LFS-333333?style=for-the-badge&logo=gitlfs&logoColor=white">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white">
 </p>
 
 <!-- CONTAINERS / CLOUD -->
@@ -141,7 +141,7 @@
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-  <img src="https://img.shields.io/badge/Unsloth-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Unsloth-000000?style=for-the-badge&logo=huggingface&logoColor=FFD21E">
 </p>
 
 <img src="https://raw.githubusercontent.com/havaianasdestruido/.github/refs/heads/main/larpsahur.jpg" width="230" align="right">
@@ -149,22 +149,22 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Hugging_Face_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
   <img src="https://img.shields.io/badge/Hugging_Face_Datasets-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
-  <img src="https://img.shields.io/badge/LLM-F7931E?style=for-the-badge">
-  <img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LLM-F7931E?style=for-the-badge&logo=huggingface&logoColor=white">
+  <img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge&logo=langchain&logoColor=white">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Embeddings-412991?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Fine--Tuning-FF6F00?style=for-the-badge">
-  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/AI_APIs-412991?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Embeddings-412991?style=for-the-badge&logo=huggingface&logoColor=white">
+  <img src="https://img.shields.io/badge/Fine--Tuning-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white">
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white">
+  <img src="https://img.shields.io/badge/AI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white">
 </p>
 
 <!-- GAME DEVELOPMENT -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/Haxe-EA8220?style=for-the-badge&logo=haxe&logoColor=white">
-  <img src="https://img.shields.io/badge/HaxeFlixel-EA8220?style=for-the-badge">
+  <img src="https://img.shields.io/badge/HaxeFlixel-EA8220?style=for-the-badge&logo=haxe&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white">
 </p>
@@ -178,7 +178,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Friday_Night_Funkin'-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Friday_Night_Funkin'-000000?style=for-the-badge&logo=haxe&logoColor=white">
   <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white">
   <img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white">
   <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white">
@@ -188,7 +188,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white">
-  <img src="https://img.shields.io/badge/yt--dlp-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/yt--dlp-000000?style=for-the-badge&logo=youtube&logoColor=white">
   <img src="https://img.shields.io/badge/ImageMagick-000000?style=for-the-badge&logo=imagemagick&logoColor=white">
 </p>
 
@@ -228,43 +228,43 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/foobar2000-222222?style=for-the-badge">
-  <img src="https://img.shields.io/badge/MPV-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/foobar2000-222222?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/MPV-000000?style=for-the-badge&logo=mpv&logoColor=white">
   <img src="https://img.shields.io/badge/FL_Cloud-FC7A00?style=for-the-badge&logo=flstudio&logoColor=white">
-  <img src="https://img.shields.io/badge/FabFilter-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/BLEASS-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/DADALIFE-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/FabFilter-000000?style=for-the-badge&logo=musicbrainz&logoColor=white">
+  <img src="https://img.shields.io/badge/BLEASS-000000?style=for-the-badge&logo=musicbrainz&logoColor=white">
+  <img src="https://img.shields.io/badge/DADALIFE-000000?style=for-the-badge&logo=musicbrainz&logoColor=white">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spitfire_Audio-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Kontakt-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Serum-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Vital-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Spitfire_Audio-111111?style=for-the-badge&logo=musicbrainz&logoColor=white">
+  <img src="https://img.shields.io/badge/Kontakt-000000?style=for-the-badge&logo=musicbrainz&logoColor=white">
+  <img src="https://img.shields.io/badge/Serum-000000?style=for-the-badge&logo=musicbrainz&logoColor=white">
+  <img src="https://img.shields.io/badge/Vital-000000?style=for-the-badge&logo=musicbrainz&logoColor=white">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kdenlive-527EB2?style=for-the-badge&logo=kdenlive&logoColor=white">
   <img src="https://img.shields.io/badge/HandBrake-00A9E0?style=for-the-badge&logo=handbrake&logoColor=white">
-  <img src="https://img.shields.io/badge/LosslessCut-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/MKVToolNix-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Subtitle_Edit-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LosslessCut-000000?style=for-the-badge&logo=ffmpeg&logoColor=white">
+  <img src="https://img.shields.io/badge/MKVToolNix-000000?style=for-the-badge&logo=ffmpeg&logoColor=white">
+  <img src="https://img.shields.io/badge/Subtitle_Edit-000000?style=for-the-badge&logo=subtitleedit&logoColor=white">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Aegisub-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Aegisub-000000?style=for-the-badge&logo=subtitleedit&logoColor=white">
   <img src="https://img.shields.io/badge/ImageMagick-000000?style=for-the-badge&logo=imagemagick&logoColor=white">
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ibisPaint-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Paint.NET-77B900?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ibisPaint-000000?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Paint.NET-77B900?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white">
   <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
   <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white">
-  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white">
 </p>
 
 <p align="center">
@@ -277,8 +277,8 @@
   <img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white">
   <img src="https://img.shields.io/badge/PowerToys-FFFFFF?style=for-the-badge&logo=microsoft&logoColor=black">
   <img src="https://img.shields.io/badge/qBittorrent-2F67BA?style=for-the-badge&logo=qbittorrent&logoColor=white">
-  <img src="https://img.shields.io/badge/CrystalDiskInfo-0078D7?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Speccy-00AEEF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CrystalDiskInfo-0078D7?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Speccy-00AEEF?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
 <p align="center">
@@ -307,15 +307,15 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  <img src="https://img.shields.io/badge/Wolfram%7CAlpha-DD1100?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Desmos-FF6B35?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Wolfram%7CAlpha-DD1100?style=for-the-badge&logo=wolfram&logoColor=white">
+  <img src="https://img.shields.io/badge/Desmos-FF6B35?style=for-the-badge&logo=geogebra&logoColor=white">
   <img src="https://img.shields.io/badge/GeoGebra-65A637?style=for-the-badge&logo=geogebra&logoColor=white">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Wikipedia-000000?style=for-the-badge&logo=wikipedia&logoColor=white">
   <img src="https://img.shields.io/badge/Internet_Archive-000000?style=for-the-badge&logo=internetarchive&logoColor=white">
-  <img src="https://img.shields.io/badge/Wayback_Machine-4285F4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Wayback_Machine-4285F4?style=for-the-badge&logo=internetarchive&logoColor=white">
 </p>
 
 <!-- ANDROID -->
@@ -323,25 +323,25 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white">
-  <img src="https://img.shields.io/badge/Shizuku-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Shizuku-000000?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/F--Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ReVanced-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/ReVanced_Manager-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/ZArchiver-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/MiXplorer-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Aurora_Store-7C4DFF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ReVanced-000000?style=for-the-badge&logo=revanced&logoColor=white">
+  <img src="https://img.shields.io/badge/ReVanced_Manager-000000?style=for-the-badge&logo=revanced&logoColor=white">
+  <img src="https://img.shields.io/badge/ZArchiver-000000?style=for-the-badge&logo=7zip&logoColor=white">
+  <img src="https://img.shields.io/badge/MiXplorer-000000?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/Aurora_Store-7C4DFF?style=for-the-badge&logo=fdroid&logoColor=white">
   <img src="https://img.shields.io/badge/NewPipe-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge">
-  <img src="https://img.shields.io/badge/TRL-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/PEFT-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/SafeTensors-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white">
+  <img src="https://img.shields.io/badge/TRL-000000?style=for-the-badge&logo=huggingface&logoColor=FFD21E">
+  <img src="https://img.shields.io/badge/PEFT-000000?style=for-the-badge&logo=huggingface&logoColor=FFD21E">
+  <img src="https://img.shields.io/badge/SafeTensors-000000?style=for-the-badge&logo=huggingface&logoColor=FFD21E">
   <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white">
 </p>
 
@@ -361,7 +361,7 @@
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white">
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white">
   <img src="https://img.shields.io/badge/esbuild-FFCF00?style=for-the-badge&logo=esbuild&logoColor=black">
 </p>
 
@@ -375,7 +375,7 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
   <img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white">
-  <img src="https://img.shields.io/badge/Manim-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Manim-000000?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
 <p align="center">
@@ -383,7 +383,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Reverse_Engineering-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Reverse_Engineering-111111?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Windows_Native-0078D4?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Windows_Media_Foundation-0078D4?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/DirectShow-0078D4?style=for-the-badge&logo=windows&logoColor=white">
