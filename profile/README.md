@@ -3,6 +3,8 @@
 <p align="center">
   <img src="https://user-badge.committers.top/worldwide/havaianasdestruido.svg">
   <img src="https://user-badge.committers.top/brazil/havaianasdestruido.svg">
+  <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg">
+  <img src="https://badge.techforpalestine.org/default">
 </p>
 
 <p align="center">
