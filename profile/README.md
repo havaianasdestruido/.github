@@ -29,7 +29,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white">
   <img src="https://img.shields.io/badge/Zsh-89E051?style=for-the-badge&logo=zsh&logoColor=black">
@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
 <p align="center">
@@ -51,7 +52,7 @@
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
   <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white">
   <img src="https://img.shields.io/badge/Haxe-EA8220?style=for-the-badge&logo=haxe&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white">
 </p>
 
 <p align="center">
@@ -64,6 +65,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
 </p>
@@ -72,6 +74,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
@@ -82,6 +86,7 @@
   <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=openapiinitiative&logoColor=white">
   <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white">
   <img src="https://img.shields.io/badge/Service_Workers-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white">
+  <img src="https://img.shields.io/badge/YouTube_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </p>
 
 <!-- DATABASE / BACKEND -->
@@ -91,6 +96,7 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
 </p>
 
 <p align="center">
@@ -114,6 +120,7 @@
   <img src="https://img.shields.io/badge/MSVC-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
   <img src="https://img.shields.io/badge/GDB-000000?style=for-the-badge&logo=gnu&logoColor=white">
   <img src="https://img.shields.io/badge/Valgrind-000000?style=for-the-badge&logo=gnu&logoColor=white">
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 </p>
 
 <p align="center">
@@ -127,14 +134,26 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/Git_LFS-333333?style=for-the-badge&logo=gitlfs&logoColor=white">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/esbuild-FFCF00?style=for-the-badge&logo=esbuild&logoColor=black">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white">
+  <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white">
 </p>
 
 <!-- CONTAINERS / CLOUD -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/Hugging_Face_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
 </p>
 
 <!-- AI / MACHINE LEARNING -->
@@ -158,8 +177,17 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Embeddings-412991?style=for-the-badge&logo=huggingface&logoColor=white">
   <img src="https://img.shields.io/badge/Fine--Tuning-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white">
-  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white">
+  <img src="https://img.shields.io/badge/TRL-000000?style=for-the-badge&logo=huggingface&logoColor=FFD21E">
+  <img src="https://img.shields.io/badge/PEFT-000000?style=for-the-badge&logo=huggingface&logoColor=FFD21E">
+  <img src="https://img.shields.io/badge/SafeTensors-000000?style=for-the-badge&logo=huggingface&logoColor=FFD21E">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white">
   <img src="https://img.shields.io/badge/AI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
 </p>
 
 <!-- GAME DEVELOPMENT -->
@@ -226,23 +254,27 @@
   <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white">
   <img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white">
   <img src="https://img.shields.io/badge/Spicetify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
-  <img src="https://img.shields.io/badge/MuseScore-1A1A1A?style=for-the-badge&logo=musescore&logoColor=white">
+  <img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/foobar2000-222222?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/MuseScore-1A1A1A?style=for-the-badge&logo=musescore&logoColor=white">
+  <img src="https://img.shields.io/badge/foobar2000-222222?style=for-the-badge&logo=winamp&logoColor=white">
   <img src="https://img.shields.io/badge/MPV-000000?style=for-the-badge&logo=mpv&logoColor=white">
   <img src="https://img.shields.io/badge/FL_Cloud-FC7A00?style=for-the-badge&logo=flstudio&logoColor=white">
-  <img src="https://img.shields.io/badge/FabFilter-000000?style=for-the-badge&logo=musicbrainz&logoColor=white">
-  <img src="https://img.shields.io/badge/BLEASS-000000?style=for-the-badge&logo=musicbrainz&logoColor=white">
-  <img src="https://img.shields.io/badge/DADALIFE-000000?style=for-the-badge&logo=musicbrainz&logoColor=white">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spitfire_Audio-111111?style=for-the-badge&logo=musicbrainz&logoColor=white">
-  <img src="https://img.shields.io/badge/Kontakt-000000?style=for-the-badge&logo=musicbrainz&logoColor=white">
-  <img src="https://img.shields.io/badge/Serum-000000?style=for-the-badge&logo=musicbrainz&logoColor=white">
-  <img src="https://img.shields.io/badge/Vital-000000?style=for-the-badge&logo=musicbrainz&logoColor=white">
+  <img src="https://img.shields.io/badge/FabFilter-000000?style=for-the-badge&logo=abletonlive&logoColor=white">
+  <img src="https://img.shields.io/badge/BLEASS-000000?style=for-the-badge&logo=abletonlive&logoColor=white">
+  <img src="https://img.shields.io/badge/DADALIFE-000000?style=for-the-badge&logo=abletonlive&logoColor=white">
+  <img src="https://img.shields.io/badge/Spitfire_Audio-111111?style=for-the-badge&logo=abletonlive&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kontakt-000000?style=for-the-badge&logo=abletonlive&logoColor=white">
+  <img src="https://img.shields.io/badge/Serum-000000?style=for-the-badge&logo=abletonlive&logoColor=white">
+  <img src="https://img.shields.io/badge/Vital-000000?style=for-the-badge&logo=abletonlive&logoColor=white">
 </p>
 
 <p align="center">
@@ -250,29 +282,23 @@
   <img src="https://img.shields.io/badge/HandBrake-00A9E0?style=for-the-badge&logo=handbrake&logoColor=white">
   <img src="https://img.shields.io/badge/LosslessCut-000000?style=for-the-badge&logo=ffmpeg&logoColor=white">
   <img src="https://img.shields.io/badge/MKVToolNix-000000?style=for-the-badge&logo=ffmpeg&logoColor=white">
-  <img src="https://img.shields.io/badge/Subtitle_Edit-000000?style=for-the-badge&logo=subtitleedit&logoColor=white">
+  <img src="https://img.shields.io/badge/Subtitle_Edit-000000?style=for-the-badge&logo=aegisub&logoColor=white">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Aegisub-000000?style=for-the-badge&logo=subtitleedit&logoColor=white">
+  <img src="https://img.shields.io/badge/Aegisub-000000?style=for-the-badge&logo=aegisub&logoColor=white">
   <img src="https://img.shields.io/badge/ImageMagick-000000?style=for-the-badge&logo=imagemagick&logoColor=white">
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ibisPaint-000000?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/Paint.NET-77B900?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/ibisPaint-000000?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+  <img src="https://img.shields.io/badge/Paint.NET-77B900?style=for-the-badge&logo=gimp&logoColor=white">
   <img src="https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white">
   <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
   <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white">
   <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
 </p>
 
 <p align="center">
@@ -318,6 +344,8 @@
   <img src="https://img.shields.io/badge/Wikipedia-000000?style=for-the-badge&logo=wikipedia&logoColor=white">
   <img src="https://img.shields.io/badge/Internet_Archive-000000?style=for-the-badge&logo=internetarchive&logoColor=white">
   <img src="https://img.shields.io/badge/Wayback_Machine-4285F4?style=for-the-badge&logo=internetarchive&logoColor=white">
+  <img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white">
+  <img src="https://img.shields.io/badge/Manim-000000?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
 <!-- ANDROID -->
@@ -339,53 +367,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white">
-  <img src="https://img.shields.io/badge/TRL-000000?style=for-the-badge&logo=huggingface&logoColor=FFD21E">
-  <img src="https://img.shields.io/badge/PEFT-000000?style=for-the-badge&logo=huggingface&logoColor=FFD21E">
-  <img src="https://img.shields.io/badge/SafeTensors-000000?style=for-the-badge&logo=huggingface&logoColor=FFD21E">
-  <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hugging_Face_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
-  <img src="https://img.shields.io/badge/YouTube_API-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
-  <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white">
-  <img src="https://img.shields.io/badge/esbuild-FFCF00?style=for-the-badge&logo=esbuild&logoColor=black">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white">
-  <img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white">
-  <img src="https://img.shields.io/badge/Manim-000000?style=for-the-badge&logo=python&logoColor=white">
-</p>
+<!-- SYSTEM / RE -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Reverse_Engineering-111111?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Reverse_Engineering-111111?style=for-the-badge&logo=kalilinux&logoColor=white">
   <img src="https://img.shields.io/badge/Windows_Native-0078D4?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Windows_Media_Foundation-0078D4?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/DirectShow-0078D4?style=for-the-badge&logo=windows&logoColor=white">
