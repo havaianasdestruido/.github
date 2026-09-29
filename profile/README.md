@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/havaianasdestruido/.github/refs/heads/main/badges.png" width="250" align="right">
 
 <p align="center">
-  <img width="355" src="https://github-stats-extended.vercel.app/api/top-langs/?username=havaianasdestruido&theme=tokyonight&layout=compact&custom_title=Tecnologias"/>
+  <img width="355" src="https://github-stats-extended.vercel.app/api/top-langs/?username=havaianasdestruido&theme=tokyonight&layout=compact&custom_title=TechStack"/>
 </p>
 
 <p align="center">
