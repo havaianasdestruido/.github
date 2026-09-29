@@ -1,6 +1,10 @@
 <img src="https://raw.githubusercontent.com/havaianasdestruido/.github/refs/heads/main/badges.png" width="250" align="right">
 
 <p align="center">
+  <img width="355" src="https://github-stats-extended.vercel.app/api/top-langs/?username=havaianasdestruido&theme=tokyonight&layout=compact&custom_title=Tecnologias"/>
+</p>
+
+<p align="center">
   <img src="https://user-badge.committers.top/worldwide/havaianasdestruido.svg">
   <img src="https://user-badge.committers.top/brazil/havaianasdestruido.svg">
   <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg">
