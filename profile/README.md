@@ -273,6 +273,8 @@
   <img src="https://img.shields.io/badge/Spitfire_Audio-111111?style=for-the-badge&logo=abletonlive&logoColor=white">
 </p>
 
+<img src="https://raw.githubusercontent.com/havaianasdestruido/.github/refs/heads/main/bigbro.jpg" width="230" align="right">
+
 <p align="center">
   <img src="https://img.shields.io/badge/Kontakt-000000?style=for-the-badge&logo=abletonlive&logoColor=white">
   <img src="https://img.shields.io/badge/Serum-000000?style=for-the-badge&logo=abletonlive&logoColor=white">
@@ -318,6 +320,8 @@
   <img src="https://img.shields.io/badge/Google_Photos-4285F4?style=for-the-badge&logo=googlephotos&logoColor=white">
   <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white">
 </p>
+
+<img src="https://raw.githubusercontent.com/havaianasdestruido/.github/refs/heads/main/fire.jpeg" width="230" align="left">
 
 <p align="center">
   <img src="https://img.shields.io/badge/Google_Calendar-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white">
@@ -381,3 +385,13 @@
   <img src="https://img.shields.io/badge/Windows_Media_Foundation-0078D4?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/DirectShow-0078D4?style=for-the-badge&logo=windows&logoColor=white">
 </p>
+
+<img src="https://raw.githubusercontent.com/havaianasdestruido/.github/refs/heads/main/hmm.webp" width="230" align="right">
+<br>
+<img src="https://raw.githubusercontent.com/havaianasdestruido/.github/refs/heads/main/i-humbly-ask-for-your-cat-reaction-pics-v0-gtrkup5va5cb1.webp" width="230" align="left">
+<br>
+<img src="https://raw.githubusercontent.com/havaianasdestruido/.github/refs/heads/main/use-this-to-tell-someone-that-a-layout-isnt-rate-worthy-v0-4n0pipr8h48f1.webp" width="230" align="right">
+<br>
+<img src="https://raw.githubusercontent.com/havaianasdestruido/.github/refs/heads/main/wet.webp" width="230" align="left">
+<br><br><br><br><br><br><br><br><br><br>
+<img src="https://raw.githubusercontent.com/havaianasdestruido/.github/refs/heads/main/woah.webp" width="230" align="center">
