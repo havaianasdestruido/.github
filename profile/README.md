@@ -18,8 +18,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/havaianasdestruido/.github?style=for-the-badge&logo=github&label=Activity">
-  <img src="https://img.shields.io/github/last-commit/havaianasdestruido/.github?style=for-the-badge&logo=github&label=Last%20Commit">
   <img src="https://komarev.com/ghpvc/?username=havaianasdestruido&style=for-the-badge&label=Profile%20Views">
 </p>
 
